@@ -1,0 +1,17 @@
+.news {
+    /*display: grid;*/
+    /*grid-template-columns: 2fr 10fr;*/
+}
+
+.newsItems {
+    padding: 10px;
+}
+
+.newsItems .active {
+    color: gold;
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+
+
